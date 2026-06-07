@@ -1,6 +1,6 @@
 # Hi there, I'm Raza Ikhsan Al Fitrah 👋
 
-### 🚀 Founder & CEO | Workflow Automation Engineer | Frontend Developer
+### 🚀 Founder & CEO | Workflow Automation Engineer | Full-Stack Web Developer
 Orchestrating the intersection of scalable web development, AI automation, and digital entrepreneurship.
 
 ---
@@ -11,16 +11,16 @@ I don’t just write scripts; I build digital ecosystems that solve real-world o
 
 Currently pursuing my degree in **Informatics Engineering at the Sony Sugema College of Information Technology**, I balance my academic life with active leadership. As the **Chairman of the Kominfo Division** within the student senate, I lead communication strategies and digital work programs. 
 
-My passion for tech education and community building also extends beyond the campus. Whether I'm stepping up as a **Google Student Ambassador candidate**, sharing insights as a guest speaker for digital business seminars at vocational schools, or expanding my retail venture **Azaafarshop ID**, my mission is to empower others through technology.
+My passion for tech education and community building also extends beyond the campus. I regularly share insights as an invited **Guest Speaker (Pemateri)** for digital business and technology seminars at vocational schools, inspiring the next generation of digital creators to leverage modern web infrastructure and automation. My mission is simple: to empower organizations and individuals through technology.
 
 ---
 
 ## 🎯 Current Focus & Digital Ventures
 
 - 🏢 **Azaadesigns ID Ecosystem:** Leading a digital branding hub and community, providing high-quality digital products (e-books, educational worksheets) and developer resources.
-- 🛍️ **Azaafarshop ID:** Managing the retail and e-commerce branch of my digital ventures.
-- ⚙️ **AI & Business Automation:** Engineering full-scale automated pipelines to optimize Shopee and TikTok affiliate workflows, removing manual friction from sales funnels.
-- 🤝 **Community Leadership:** Mentoring aspiring digital creators and collaborating with key figures and business partners to scale digital impact.
+- ⚙️ **AI & Business Automation:** Engineering full-scale automated pipelines with n8n and Supabase to optimize Shopee and TikTok affiliate workflows, removing manual friction from sales funnels.
+- 👨‍🏫 **Tech Education & Public Speaking:** Hosting webinars and speaking at educational seminars to bridge the gap between academic theory and real-world digital business execution.
+- 🤝 **Strategic Collaborations:** Partnering with mentors, retail business owners, and tech creators to scale community reach and build collaborative business models.
 
 ---
 
@@ -76,6 +76,6 @@ My passion for tech education and community building also extends beyond the cam
 
 I'm always open to discussing web development, workflow automation, tech community initiatives, or potential business partnerships.
 
-- **Website :** [azaadesigns.id](https://azaadesigns-id.vercel.app/)
-- **Email :** azzyycans@gmail.com
-- **Instagram :** [raaa_zaaaa](https://www.instagram.com/raaa_zaaaa/)
+- **Website:** [azaadesigns.id](https://azaadesigns-id.vercel.app/)
+- **Email:** azzyycans@gmail.com
+- **Instagram:** [@raaa_zaaaa](https://www.instagram.com/raaa_zaaaa/)
