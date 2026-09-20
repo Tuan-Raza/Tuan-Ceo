@@ -1,7 +1,7 @@
 # Hi there, I'm Raza Ikhsan Al Fitrah 👋
 
-### 🚀 Founder & CEO | Workflow Automation Engineer | Full-Stack Web Developer
-Orchestrating the intersection of scalable web development, AI automation, and digital entrepreneurship.
+### 🚀 Founder & CEO | Workflow Automation Engineer | Full-Stack Digital Entepreneur
+Orchestrating the intersection of scalable web development, AI automation, and digital entrepreneurship
 
 ---
 
