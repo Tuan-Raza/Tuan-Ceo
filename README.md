@@ -1,81 +1,33 @@
-# Hi there, I'm Raza Ikhsan Al Fitrah 👋
+# 🚀 Hi there, I'm Raza Ikhsan Al Fitrah (Tuan CEO)
 
-### 🚀 Founder & CEO | Workflow Automation Engineer | Full-Stack Digital Entepreneur
-Orchestrating the intersection of scalable web development, AI automation, and digital entrepreneurship
+**Full-Stack Digital Entrepreneur | Web & AI Solutions Specialist**
 
----
+Menjembatani baris kode modern dengan pertumbuhan bisnis riil. Sebagai mahasiswa Teknik Informatika dan Founder Azaadesigns ID, saya membangun ekosistem digital mandiri dan otomatisasi AI yang memangkas biaya operasional tanpa ketergantungan pada SaaS pihak ketiga yang mahal.
 
-## 🧑‍💻 The Architect Behind the Code
+### 💡 Visi & Eksekutif Persona
+- 🎓 **Mahasiswa S1 Teknik Informatika** di STTI Sony Sugema[cite: 6, 8].
+- 🏢 **Founder & CEO** Azaadesigns ID, menaungi ekosistem digital marketing & AI Automation[cite: 1, 6].
+- 🏆 **Pencapaian:** Finalis Google Student Ambassador 2026 & Trainer Gemini Academy 2026[cite: 3, 6].
+- 🤝 **Filosofi:** Menggabungkan kedisiplinan *santri values* dengan *engineering rigor* untuk solusi yang amanah dan berdampak[cite: 6].
 
-I don’t just write scripts; I build digital ecosystems that solve real-world operational bottlenecks. My entrepreneurial journey began in February 2022 when I established **Azaadesigns ID**, which has since evolved into a comprehensive digital product hub and a thriving tech-entrepreneurship community. 
+### 📊 Metrik & Rekam Jejak Terukur
+- 📦 **10+ Lini Produk Digital:** Membangun ekosistem e-book, template, dan AI prompts yang siap pakai[cite: 4, 6].
+- ⚡ **60%+ Efisiensi:** Memangkas waktu produksi konten via integrasi multi-agent AI (n8n + Gemini)[cite: 4, 6].
+- 🎯 **~0% Selisih Stok:** Mengembangkan Web Inventory v3.5 berbasis PHP/MySQL untuk PT Citra Buana Delapan (ptcbd.online)[cite: 4, 6].
+- 📈 **3+ Tahun Konsistensi:** Menjaga monetisasi organik harian via program Affiliate[cite: 4, 6].
 
-Currently pursuing my degree in **Informatics Engineering at the Sony Sugema College of Information Technology**, I balance my academic life with active leadership. As the **Chairman of the Kominfo Division** within the student senate, I lead communication strategies and digital work programs. 
+### 🛠️ Tech Stack & Ekosistem
+- **Cloud & AI:** Google Cloud Platform, Microsoft Azure AI, Gemini API, n8n Workflow, Supabase[cite: 3, 6].
+- **Web Development:** HTML5, CSS3, Tailwind, JavaScript (ES6+), React.js, Next.js, PHP, MySQL[cite: 3, 6].
+- **Creative:** Desain Berstandar SKKNI, Canva Pro, 3D WebGL (Three.js)[cite: 3, 6].
 
-My passion for tech education and community building also extends beyond the campus. I regularly share insights as an invited **Guest Speaker (Pemateri)** for digital business and technology seminars at vocational schools, inspiring the next generation of digital creators to leverage modern web infrastructure and automation. My mission is simple: to empower organizations and individuals through technology.
+### 📂 Proyek Unggulan
+1. **Azaadesigns ID Digital Hub:** Mengubah checkout manual menjadi sistem membership digital otomatis berbasis *lean-architecture*[cite: 4].
+2. **Web Inventory v3.5 (PT CBD):** Sistem pencatatan stok gudang *real-time* dengan antarmuka gesekan rendah untuk staf non-teknis[cite: 4].
+3. **AI for Affiliate Pipeline:** Orkestrasi 8 agen AI untuk memproduksi naskah promosi dan manajemen katalog secara otomatis[cite: 4, 9].
 
----
-
-## 🎯 Current Focus & Digital Ventures
-
-- 🏢 **Azaadesigns ID Ecosystem:** Leading a digital branding hub and community, providing high-quality digital products (e-books, educational worksheets) and developer resources.
-- ⚙️ **AI & Business Automation:** Engineering full-scale automated pipelines with n8n and Supabase to optimize Shopee and TikTok affiliate workflows, removing manual friction from sales funnels.
-- 👨‍🏫 **Tech Education & Public Speaking:** Hosting webinars and speaking at educational seminars to bridge the gap between academic theory and real-world digital business execution.
-- 🤝 **Strategic Collaborations:** Partnering with mentors, retail business owners, and tech creators to scale community reach and build collaborative business models.
-
----
-
-## 🛠️ Infrastructure & Tech Stack
-
-### 💻 Frontend & Backend Development
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI, Automation & Data Management
-![](https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white)
-![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![](https://img.shields.io/badge/Gemini_AI-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white)
-
-### 🎨 Design & Productivity
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🏆 Featured Milestones & Projects
-
-<details>
-  <summary><b>🤖 Project: "AI For Affiliate" (Automated Marketing Engine)</b></summary>
-  <br>
-  
-  **April 2026 Release** | A full-scale automated content scheduling and data management pipeline engineered to optimize affiliate workflows.
-  - **The Architecture:** Leverages **n8n** for workflow orchestration, tracking system data via **Supabase**, and utilizing **Gemini AI** for dynamic copywriting and asset rendering.
-  - **The Result:** Completely removes manual posting delays, establishing an autonomous sales funnel for e-books and community digital worksheets.
-</details>
-
-<details>
-  <summary><b>🌐 Azaadesigns ID Community Launch</b></summary>
-  <br>
-  
-  **February 2026** | Successfully launched a digital entrepreneurship community. Spearheaded the event planning, scriptwriting, promotional material creation, and hosted the inaugural webinar to onboard new members and aspiring digital creators.
-</details>
-
-<details>
-  <summary><b>💼 Custom Inventory Management System</b></summary>
-  <br>
-  
-  Engineered a custom stock management and inventory system for a professional entity using PHP and MySQL, designed to streamline data tracking and operational efficiency.
-</details>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always open to discussing web development, workflow automation, tech community initiatives, or potential business partnerships.
-
-- **Website:** [azaadesigns.id](https://azaadesigns-id.vercel.app/)
-- **Email:** azzyycans@gmail.com
-- **Instagram:** [@raaa_zaaaa](https://www.instagram.com/raaa_zaaaa/)
+### 📫 Mari Terhubung
+- **WhatsApp:** [+62 812-9998-9695](https://wa.me/6281299989695)
+- **Instagram:** [@raaa_zaaaa](https://instagram.com/raaa_zaaaa) | [@azaadesigns_id](https://instagram.com/azaadesigns_id)
+- **Email:** azaadesigns.id@gmail.com
+- **Toko Digital:** [lynk.id/azaa_designs](https://lynk.id/azaa_designs)
